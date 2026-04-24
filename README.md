@@ -18,7 +18,7 @@ Aplikasi katalog produk berbasis mobile dengan backend Golang dan frontend Flutt
   https://github.com/Mariariaardyanti/mycatalog-fe  
 
 - ⚙️ Backend (Golang API):  
-  https://github.com/Mariariaardyanti/mycatalog-be-service  
+  https://github.com/Mariariaardyanti/mycatalog-be  
 
 ---
 
