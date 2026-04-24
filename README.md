@@ -41,5 +41,8 @@ Aplikasi katalog produk berbasis mobile dengan backend Golang dan frontend Flutt
 ## 📦 Cara Menjalankan
 
 ### 🔧 Backend
-```bash
-go run main.go
+    go run main.go
+
+### 📱 Frontend
+    flutter pub get
+    flutter run
